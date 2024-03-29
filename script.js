@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Huhuhuhu anh hết yêu bé rồi, anh là đồ tồi, còn không mau chọn lại";
   gif.src =
-    "https://media1.giphy.com/media/iCVzZwwE6QNAV2tEE0/giphy.gif";
+    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm45NDg1dDlna3ZmazIxNWMxOHM3MzVhYzRneDBxN2c1OXN4ejl6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N32n3cxZGUx0IHS8i7/giphy.gif";
   yesBtn.style.display = "none";
 });
 
