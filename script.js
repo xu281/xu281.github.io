@@ -15,4 +15,6 @@ noBtn.addEventListener("click", () => {
  question.innerHTML = "Yeahhhhh Bé cũng yêu anhhhhh 😘";
   gif.src =
     "https://i.imgur.com/RRhHW6N.jpeg";
+  yesBtn.style.display = "none";
+  noBtn.style.display = "none";
 });
